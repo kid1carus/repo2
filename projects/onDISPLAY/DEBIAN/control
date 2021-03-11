@@ -1,0 +1,9 @@
+Package: us.kid1car.ondisplay
+Name: onDISPLAY
+Version: 1.0.0
+Section: Themes
+Architecture: iphoneos-arm
+Author: @kid1carus1 <kid1carus.1mages@gmail.com>
+Maintainer: @kid1carus1 <kid1carus.1mages@gmail.com>
+Description: Modern skeuomorphic icons set prominently on display on your home screen.  Each meticulously designed icon with its own individual shelf. Every so often, sporting it's own individual fun theme within itself.
+Icon: file:///Library/Themes/onDISPLAY.theme/themeicon.png

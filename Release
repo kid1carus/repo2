@@ -1,0 +1,8 @@
+Origin: kid1carus' theme repo
+Label: kid1carus d3sign
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: kid1carus d3sign's iOS theme repo
