@@ -3,13 +3,28 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: @kid1carus1 <kid1carus.1mages@gmail.com>
 Filename: ./debs/us.kid1car.ondisplay_1.1_iphoneos-arm.deb
-Size: 37300414
-MD5sum: 24b801d49c99434c6590a16dbdb8c599
-SHA1: 3dc7c4862b595bcf5431d1f4f3fd785e98f3a485
-SHA256: 8372a965d38ecf78c9a700a2c485c9c19943d0f0573f5ebc7cd900840449867d
+Size: 37353106
+MD5sum: c940c36a80c855d4cb501683cd325944
+SHA1: bce2314f52fc2c0995e182c073534f0b9802f10a
+SHA256: 2865872ee7addfdd42e3118c81bac088d56a070cfca6ff8fa408deb60213bc30
 Section: Themes
 Description: Modern skeuomorphic icons set prominently on display on your home screen.  Each meticulously designed icon with its own individual shelf. Every so often, sporting it's own individual fun theme within itself.
 Author: @kid1carus1 <kid1carus.1mages@gmail.com>
 Icon: file:///Library/Themes/onDISPLAY.theme/themeicon.png
 Name: onDISPLAY
+
+Package: us.kid1car.realweatherondisplay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Terry OCheskey (kid1carus) <kid1carus.1mages@gmail.com>
+Filename: ./debs/us.kid1car.realweatherondisplay_1.0_iphoneos-arm.deb
+Size: 473074
+MD5sum: eb05a5cd0dc953094e8e2ddd5a2e0da1
+SHA1: 2cf7071363cf5af3d04d4ebeef39fbb3fd8201cf
+SHA256: 5aade9833a7136c1b94d81a35a8577a0092c20ece79255955984c4b40b7d02cb
+Section: Themes
+Description: Animated photorealistic weather icon for your iOS device.
+Author: kid1carus <kid1carus.1mages@gmail.com>
+Icon: file:///var/mobile/Library/Toonsy/Real Weather onDISPLAY.theme/preview@2x.png
+Name: Real Weather onDISPLAY
 

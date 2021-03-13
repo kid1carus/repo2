@@ -1,0 +1,9 @@
+Package: us.kid1car.realweatherondisplay
+Name: Real Weather onDISPLAY
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated photorealistic weather icon for your iOS device.
+Maintainer: Terry OCheskey (kid1carus) <kid1carus.1mages@gmail.com>
+Author: kid1carus <kid1carus.1mages@gmail.com>
+Section: Themes
+Icon: file:///var/mobile/Library/Toonsy/Real Weather onDISPLAY.theme/preview@2x.png
