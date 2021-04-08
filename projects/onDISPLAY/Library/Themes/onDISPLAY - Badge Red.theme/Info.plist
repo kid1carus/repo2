@@ -4,28 +4,12 @@
 <dict>
 	<key>BadgeSettings</key>
 	<dict>
-		<key>FontName</key>
-		<string>Helvetica Neue Regular</string>
 		<key>FontSize</key>
-		<integer>14</integer>
-		<key>HeightChange</key>
-		<real>-3</real>
-		<key>ShadowBlurRadius</key>
-		<integer>2</integer>
+		<integer>10</integer>
 		<key>ShadowColor</key>
 		<string>#000000</string>
-		<key>ShadowXoffset</key>
-		<real>0.0</real>
-		<key>ShadowYoffset</key>
-		<real>2</real>
 		<key>TextColor</key>
 		<string>#FFFFFF</string>
-		<key>TextXoffset</key>
-		<integer>-1</integer>
-		<key>TextYoffset</key>
-		<real>0.0</real>
-		<key>WidthChange</key>
-		<real>4</real>
 	</dict>
 	<key>CalendarIconDateSettings</key>
 	<dict>
